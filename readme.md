@@ -15,7 +15,7 @@ To learn how to use python to extract stock information, to clean and transform 
 - datetime
 
 # instruction
-1.1 - 5.10 are the work sheet for each course, the util.py is the specialize functionality I created to improvize what I learned from the course.
+1.1 - 5.10 are the work sheet for each course sections, the util.py is the specialize functionality I created to improvize what I learned from the course.
 What I did here is:
 1. Allowing for saving the stock information obtained as the csv file into a specific folder. Detail look into: save_dict(dict, folder_name)
 In addition, loading dictionary is also possible with load_dict(folder_name)
