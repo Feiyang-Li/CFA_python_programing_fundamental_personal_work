@@ -34,5 +34,8 @@ In addition, loading dictionary is also possible with load_dict(folder_name)
 
 Notice 4 - 7, used the different method as CFA instructors taught, I found it more clearer to understand, since I can make each function seperate as compare as CFA instruction method which must reside within a ipynb file. 
 
-
+# my comment:
+- yfinance is very useful, I hope I learn it earlier
+- monteCarlosSimulation is interesting, but I think you could just use some formular to get the weight and that take less time.
+- I will work on creating my own index in my future project, using the historical information extract from yfinance. 
 
