@@ -39,3 +39,10 @@ Notice 4 - 7, used the different method as CFA instructors taught, I found it mo
 - monteCarlosSimulation is interesting, but I think you could just use some formular to get the weight and that take less time.
 - I will work on creating my own index in my future project, using the historical information extract from yfinance. 
 
+# what I learn:
+- python is what this course teach, it future consolidate my understanding in python (especially on data analysis part) (although I am already very familar with it)
+- yfinance (yahoo finance api) to extract stock information
+- numpy, pandas, matplot, pyplot. (which I also have a great amount of experience before)
+- monte Carlos Simulation for stock price analysis.
+- Portfolio construction, and portfolio price analysis.
+- Graphical display of the portfolio return.
